@@ -1,3 +1,11 @@
 https://docs.google.com/document/d/1kIprzHBqclr3thUdm9T7wYEVaMIvLlF-3i6KMTNiIgc/edit?tab=t.0#heading=h.givlupoz0y6u
 
 
+1. VPC & EC2 Lab : https://youtu.be/AsSQb--MNXA (no audio)
+2. Route 53 Labs : https://youtu.be/-ndsfa-6GMI (no audio)
+3. IAM Concept & Lab : https://youtu.be/9asvt7jh27M
+
+ Internet access will be provided but VPN access will not be provided. Since VPN access will not be given, 
+you can't ssh to remote servers via openssh or putty application. 
+To get the cli of the VMs use 'EC2 Instance Connect' to connect to the instance from browser. 
+Refer above videos for reference. All the best for your labs & models.    
